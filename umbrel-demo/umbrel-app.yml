@@ -1,7 +1,8 @@
 manifestVersion: 1
 id: umbrel-demo
-category:
+category: Development
 name: umbrel-demo
+icon: https://mmbiz.qlogo.cn/mmbiz_jpg/xiaVrPayKAknRv1Via2z4LjpbRvov6Zkfy6NNfvicWeicdBFltrmmMibKC9jQ56Nd8TJ2Iw9Ag5TwCTzRXVN0iccCA8A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
 version: "v1.0"
 tagline: Simple umbrel app for test
 description: >-
@@ -10,11 +11,14 @@ releaseNotes: >-
   hello umbrel
 developer: >-
   swk in yhlcps
-website:
-repo:
-support:
+website: https://www.tongquntech.com/
+repo: https://github.com/swk123456/my-umbrel-app
+support: https://github.com/swk123456/my-umbrel-app/issues
 port: 3000
 gallery:
+  - https://mmbiz.qlogo.cn/mmbiz_jpg/xiaVrPayKAknRv1Via2z4LjpbRvov6Zkfy6NNfvicWeicdBFltrmmMibKC9jQ56Nd8TJ2Iw9Ag5TwCTzRXVN0iccCA8A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
+  - https://mmbiz.qlogo.cn/mmbiz_jpg/xiaVrPayKAknRv1Via2z4LjpbRvov6Zkfy6NNfvicWeicdBFltrmmMibKC9jQ56Nd8TJ2Iw9Ag5TwCTzRXVN0iccCA8A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
+  - https://mmbiz.qlogo.cn/mmbiz_jpg/xiaVrPayKAknRv1Via2z4LjpbRvov6Zkfy6NNfvicWeicdBFltrmmMibKC9jQ56Nd8TJ2Iw9Ag5TwCTzRXVN0iccCA8A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
 path: ""
 submitter: Umbrel
-submission:
+submission: https://github.com/swk123456/my-umbrel-app
