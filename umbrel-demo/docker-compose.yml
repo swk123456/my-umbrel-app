@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: umbrel-demo_hello-umbrel_1
+      APP_PORT: 3000
+
+  hello-umbrel:
+    image: yhlswk/umbrel-demo:v1.0@sha256:cd973f914b2b8d1a5c524c803884550e1c8216495c1df742797a13e017448118
+    restart: on-failure
+    stop_grace_period: 1m
+    container_name: hello-umbrel
+    ports:
+      - "3000:3000"
+    command: npm start

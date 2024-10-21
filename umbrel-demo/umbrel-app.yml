@@ -1,0 +1,20 @@
+manifestVersion: 1
+id: umbrel-demo
+category:
+name: umbrel-demo
+version: "v1.0"
+tagline: Simple umbrel app for test
+description: >-
+  umbrel-demo is a demo to test how to run on umbrel
+releaseNotes: >-
+  hello umbrel
+developer: >-
+  swk in yhlcps
+website:
+repo:
+support:
+port: 3000
+gallery:
+path: ""
+submitter: Umbrel
+submission:
