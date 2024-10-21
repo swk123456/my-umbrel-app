@@ -3,7 +3,7 @@ version: '3.8'
 services:
   app_proxy:
     environment:
-      APP_HOST: umbrel-demo_hello-umbrel_1
+      APP_HOST: yhl-umbrel-demo_hello-umbrel_1
       APP_PORT: 3000
 
   hello-umbrel:
