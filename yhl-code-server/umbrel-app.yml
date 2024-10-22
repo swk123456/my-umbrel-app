@@ -12,18 +12,16 @@ releaseNotes: >-
 
   Full release notes are available at https://github.com/coder/code-server/releases.
 developer: Coder
-website: #https://coder.com
+website: https://coder.com
 dependencies: []
-repo: #https://github.com/cdr/code-server
-support: #https://github.com/cdr/code-server/discussions
+repo: https://github.com/cdr/code-server
+support: https://github.com/cdr/code-server/discussions
 port: #8091
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://mmbiz.qlogo.cn/mmbiz_jpg/xiaVrPayKAknRv1Via2z4LjpbRvov6Zkfy6NNfvicWeicdBFltrmmMibKC9jQ56Nd8TJ2Iw9Ag5TwCTzRXVN0iccCA8A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
 path: ""
 defaultUsername: ""
 deterministicPassword: true
 torOnly: false
 submitter: Umbrel
-submission: #https://github.com/getumbrel/umbrel/commit/14f8b3aec8cb99ef0940ba0cd9df25b7126a95cc
+submission: https://github.com/getumbrel/umbrel/commit/14f8b3aec8cb99ef0940ba0cd9df25b7126a95cc
